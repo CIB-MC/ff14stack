@@ -1,0 +1,5 @@
+#include "config.hpp"
+const std::string FF14StackConfig::WIFI_SSID = "SET-YOUR-WIFI-SSID-HERE";
+const std::string FF14StackConfig::WIFI_PASS = "SET-YOUR-WIFI-PASS-HERE";
+const std::string FF14StackConfig::NTP_SERVER = "SET-NTP-SERVER-YOU-WANT-TO-USE";
+const std::string FF14StackConfig::TOTP_SECRET_BASE32 = "SET-YOUR-TOTP-SECRET-BASE32-ENCODED-HERE";
